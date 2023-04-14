@@ -1,3 +1,3 @@
 # Transformer-Text8
 
-This is a transformer model on text8 dataset (http://mattmahoney.net/dc/textdata.h).
+This is an auto-aggressive transformer model on text8 dataset (http://mattmahoney.net/dc/textdata.h) for character-level text generation.
